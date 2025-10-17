@@ -436,7 +436,7 @@ main {
 #aboutmeimage {
     width: 100%;
     height: 35rem;
-    background-image: url(MEDIA/IMAGES/me\ \(3\).jpg);
+    background-image: url("MEDIA/IMAGES/me (me).jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -1422,3 +1422,4 @@ p {
   }
 
   
+
