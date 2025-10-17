@@ -283,7 +283,7 @@ main {
     height: 600px;
     overflow: hidden;
     z-index: -1;
-    background-image: url("../MEDIA/IMAGES/AboutMe.jpg");
+    background-image: url("MEDIA/IMAGES/AboutMe.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -436,7 +436,7 @@ main {
 #aboutmeimage {
     width: 100%;
     height: 35rem;
-    background-image: url(../MEDIA/IMAGES/me\ \(3\).jpg);
+    background-image: url(MEDIA/IMAGES/me\ \(3\).jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -1074,7 +1074,7 @@ p {
     }
 
     .first {
-        background-image: url(../MEDIA/IMAGES/slideshow1\ -\ Copy.jpg);
+        background-image: url(MEDIA/IMAGES/slideshow1\ -\ Copy.jpg);
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: cover;
@@ -1088,7 +1088,7 @@ p {
 
 
     .second {
-        background-image: url(../MEDIA/IMAGES/services\ -\ Copy.jpg);
+        background-image: url(MEDIA/IMAGES/services\ -\ Copy.jpg);
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: cover;
@@ -1101,7 +1101,7 @@ p {
 
 
     .third {
-        background-image: url(../MEDIA/IMAGES/language\ -\ Copy.jpg);
+        background-image: url(MEDIA/IMAGES/language\ -\ Copy.jpg);
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: cover;
@@ -1113,7 +1113,7 @@ p {
     }
 
     .fourth {
-        background-image: url(../MEDIA/IMAGES/slideshow3\ -\ Copy.jpg);
+        background-image: url(MEDIA/IMAGES/slideshow3\ -\ Copy.jpg);
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: cover;
@@ -1237,7 +1237,7 @@ p {
     }
 
     #aboutmeimage {
-        background-image: url(../MEDIA/IMAGES/me.jpg);
+        background-image: url(MEDIA/IMAGES/me.jpg);
         height: 20rem;
     }
 
@@ -1348,7 +1348,7 @@ p {
         width: 74%;
     }
     .first {
-        background-image: url(../MEDIA/IMAGES/slideshow1\ -\ Copy.jpg);
+        background-image: url(MEDIA/IMAGES/slideshow1\ -\ Copy.jpg);
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: cover;
@@ -1362,7 +1362,7 @@ p {
 
 
     .second {
-        background-image: url(../MEDIA/IMAGES/services\ -\ Copy.jpg);
+        background-image: url(MEDIA/IMAGES/services\ -\ Copy.jpg);
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-size: cover;
@@ -1420,4 +1420,5 @@ p {
     }
 
   }
+
   
